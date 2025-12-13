@@ -3,7 +3,9 @@
 
 **SSRN:** [Abstract page](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5783263) · **PDF:** [ssrn-5783263.pdf](publications/ssrn-5783263.pdf) · **Figures:** [visuals/](visuals/) · **Evidence pack:** [publications/](publications/)
 ## Start with the PDF (the full AI governance toolkit)
-
+➡️ **Open the full paper (PDF on SSRN):** Click **“Open PDF in Browser”** (fastest) or **“Download This Paper.”  
+This paper is a practical **day-to-day AI governance evidence pack** (what to check, how to document SHAP + fairness, what to escalate).
+✅ Reusable audit structure + interpretation notes + evidence mapping you can copy into model reviews this week.
 **From Model-Level Explanations to Legal Evidence: Auditing Bias and Explainability in GDPR-Compliant Automated Decision Systems**
 
  **Open the full paper (PDF):** `publications/ssrn-5783263.pdf`  
