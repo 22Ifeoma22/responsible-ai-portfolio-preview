@@ -20,7 +20,7 @@ into **GDPR-ready documentation** for automated decision systems (Article 22-rel
 
 ## Key figures (preview)
 
-![SHAP global explanation (beeswarm)](visuals/shap_global_beeswarm.png)
+![SHAP global explanation (beeswarm)](visuals/SHAP global explanation (beeswarm).png)
 ![Fairness — Selection rate by sex (male vs female)](visuals/fairness_selection_rate_sex.png)
 ![Fairness — Selection rate by age group](visuals/fairness_selection_rate_age.png)
 
