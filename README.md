@@ -1,7 +1,8 @@
 # From Model-Level Explanations to Legal Evidence
 ## Auditing Bias and Explainability in GDPR-Compliant Automated Decision Systems
 
-**SSRN:** [Abstract page](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5783263) · **PDF:** [paper.pdf](publications/<paper-folder>/paper.pdf) · **Figures:** [visuals/](visuals/) · **Evidence pack:** [publications/](publications/)
+**SSRN:** [Abstract page](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5783263) · **PDF:** [ssrn-5783263.pdf](publications/ssrn-5783263.pdf) · **Figures:** [visuals/](visuals/) · **Evidence pack:** [publications/](publications/)
+
 
 ### Recruiter summary (30 seconds)
 This repository is a **Responsible AI audit evidence pack** showing how to translate:
@@ -13,16 +14,15 @@ into **GDPR-ready documentation** for automated decision systems (Article 22-rel
 - **Working paper (SSRN):** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5783263
 - **Key visuals:** `visuals/` (SHAP, LIME, fairness outputs)
 - **Evidence pack / publication files:** `publications/`
-- **GitHub Pages preview:** (your Pages link)
+- https://22ifeoma22.github.io/responsible-ai-portfolio-preview/
 
 ---
 
 ## Key figures (preview)
-> Replace the filenames below with your real image names in `/visuals`.
 
-![SHAP global](visuals/<shap_image>.png)
-![LIME local](visuals/<lime_image>.png)
-![Fairness](visuals/<fairness_image>.png)
+![SHAP global explanation (beeswarm)](visuals/shap_global_beeswarm.png)
+![Fairness — Selection rate by sex (male vs female)](visuals/fairness_selection_rate_sex.png)
+![Fairness — Selection rate by age group](visuals/fairness_selection_rate_age.png)
 
 ---
 
