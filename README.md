@@ -37,7 +37,7 @@ This paper is written to help you do exactly that.
 - **30 minutes:** follow the full evidence chain and reuse the structure for your own model review pack.
 
 ### Bottom line
-If you want the *real value* — the logic, the interpretation, and the evidence structure you can reuse at work — **open the PDF**.
+If you want the *real value* - the logic, the interpretation, and the evidence structure you can reuse at work — **open the PDF**.
 The README shows the highlights; the paper gives you the full governance method.
 
 
