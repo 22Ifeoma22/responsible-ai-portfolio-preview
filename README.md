@@ -6,16 +6,15 @@
 
 ### Recruiter summary (30 seconds)
 This repository is a **Responsible AI audit evidence pack** showing how to translate:
-- - **Explainability** (SHAP = global patterns + case-level explanations)
+- **Explainability** (SHAP = global patterns + case-level explanations)
 - **Fairness testing** (group metrics + disparity interpretation)
 into **GDPR-ready documentation** for automated decision systems (Article 22-relevant contexts).
 
 ## What you can open immediately
 - **Working paper (SSRN):** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5783263
-- **Key visuals:** `visuals/` (SHAP, LIME, fairness outputs)
+- **Key visuals:** `visuals/` (SHAP + fairness outputs)
 - **Evidence pack / publication files:** `publications/`
-- - https://22ifeoma22.github.io/responsible-ai-portfolio-preview/
-
+- **GitHub Pages preview:** https://22ifeoma22.github.io/responsible-ai-portfolio-preview/
 
 ---
 
