@@ -57,12 +57,15 @@ into **GDPR-ready documentation** for automated decision systems (Article 22-rel
 - **Evidence pack / publication files:** `publications/`
 - **GitHub Pages preview:** https://22ifeoma22.github.io/responsible-ai-portfolio-preview/
 
+
+**Best starting point:** Open the PDF — the README is a preview, the PDF contains the full method + interpretation + evidence template.
+
 ---
 ### 5-minute skim path (PDF)
 1) **Explainability (SHAP):** what drives outcomes at model level  
 2) **Fairness (sex + age):** selection-rate disparities + what they mean  
 3) **Evidence mapping:** how to package outputs into audit-ready documentation  
-➡️ If you do model reviews / governance sign-off, this is the reusable workflow.
+If you do model reviews / governance sign-off, this is the reusable workflow.
 
 ## Key figures (preview)
 
@@ -81,6 +84,7 @@ into **GDPR-ready documentation** for automated decision systems (Article 22-rel
 | Audit narrative | limits + safeguards | “What controls reduce risk and enable rights?” |
 
 ---
+If you want the extended evidence pack (more artefacts + templates), open an Issue titled **“Request: extended pack”**.
 
 ## Working paper (SSRN)
 **Title:** *From Model-Level Explanations to Legal Evidence: Auditing Bias and Explainability in GDPR-Compliant Automated Decision Systems*  
