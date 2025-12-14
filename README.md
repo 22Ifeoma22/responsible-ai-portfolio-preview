@@ -2,6 +2,8 @@
 ## Auditing Bias and Explainability in GDPR-Compliant Automated Decision Systems
 
 **SSRN:** [Abstract page](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5783263) · **PDF:** [ssrn-5783263.pdf](publications/ssrn-5783263.pdf) · **Figures:** [visuals/](visuals/) · **Evidence pack:** [publications/](publications/)
+⚡ **Best starting point:** Open the PDF — the README is a preview, the PDF contains the full method + interpretation + evidence template.
+
 ## Start with the PDF (the full AI governance toolkit)
 ➡️ **Open the full paper (PDF on SSRN):** Click **“Open PDF in Browser”** (fastest) or **“Download This Paper.”  
 This paper is a practical **day-to-day AI governance evidence pack** (what to check, how to document SHAP + fairness, what to escalate).
@@ -56,6 +58,11 @@ into **GDPR-ready documentation** for automated decision systems (Article 22-rel
 - **GitHub Pages preview:** https://22ifeoma22.github.io/responsible-ai-portfolio-preview/
 
 ---
+### 5-minute skim path (PDF)
+1) **Explainability (SHAP):** what drives outcomes at model level  
+2) **Fairness (sex + age):** selection-rate disparities + what they mean  
+3) **Evidence mapping:** how to package outputs into audit-ready documentation  
+➡️ If you do model reviews / governance sign-off, this is the reusable workflow.
 
 ## Key figures (preview)
 
