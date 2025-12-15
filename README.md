@@ -57,6 +57,24 @@ into **GDPR-ready documentation** for automated decision systems (Article 22-rel
 - **Evidence pack / publication files:** `publications/`
 - **GitHub Pages preview:** https://22ifeoma22.github.io/responsible-ai-portfolio-preview/
 
+## Open the PDF (this is where the value is)
+
+If you work in **AI governance, Model Risk, Compliance, Risk & Controls, Data Protection, Supplier Assurance, or Responsible AI** — don’t stop at the charts.
+
+**Open the PDF first:** [publications/ssrn-5783263.pdf](publications/ssrn-5783263.pdf)
+This repo is a *preview evidence pack* — but the **PDF is the playbook**: how to document, interpret, escalate, and explain results to stakeholders.
+
+### Why open it
+- **Charts don’t pass audits.** The PDF shows how SHAP + fairness outputs become **audit-ready evidence**.
+- **Governance = documentation.** You get **reusable structure + wording** for review packs and sign-off.
+- **It answers “what next?”** It includes interpretation guidance + actions when disparities appear.
+
+### Quick skim path
+- **60 seconds:** scan the Key Figures in this README (teaser only)
+- **5 minutes:** PDF → figures + interpretation
+- **15 minutes:** evidence framing + recommended actions
+
+**Bottom line:** the README visuals are the hook — the **PDF is the toolkit** 
 
 **Best starting point:** Open the PDF - the README is a preview, the PDF contains the full method + interpretation + evidence template.
 
