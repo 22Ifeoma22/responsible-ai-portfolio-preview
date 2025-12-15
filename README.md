@@ -6,7 +6,7 @@
 
 ## Start with the PDF (the full AI governance toolkit)
 **Open the full paper (PDF on SSRN):** Click **“Open PDF in Browser”** (fastest) or **“Download This Paper.”  
-This paper is a practical **day-to-day AI governance evidence pack** (what to check, how to document SHAP + fairness, what to escalate).
+This paper is a practical **day-to-day AI governance evidence pack** (what to check, how to document SHAP and fairness, what to escalate).
 Reusable audit structure + interpretation notes + evidence mapping you can copy into model reviews this week.
 **From Model-Level Explanations to Legal Evidence: Auditing Bias and Explainability in GDPR-Compliant Automated Decision Systems**
 
@@ -31,13 +31,13 @@ This paper is written to help you do exactly that.
 ### What you get when you open the PDF (usable takeaways)
 - **A repeatable audit logic**: how to structure your evidence trail so it’s reviewable and defensible.
 - **Model-level explainability** (SHAP global): how to interpret key drivers and communicate them clearly.
-- **Fairness testing evidence** (sex + age group): how to read selection-rate patterns and flag potential disparity signals.
+- **Fairness testing evidence** (sex and age group): how to read selection-rate patterns and flag potential disparity signals.
 - **Interpretation that leads to action**: what to do next (monitoring, thresholds, escalation, documentation updates) when signals appear.
 - **Governance framing**: how to connect technical results to accountability, transparency, and meaningful oversight in practice.
 
 ### Recommended reading path (if you’re busy)
-- **2 minutes:** open PDF → scan headings + figures to understand the flow.
-- **10 minutes:** read the explainability + fairness interpretation sections.
+- **2 minutes:** open PDF → scan headings and figures to understand the flow.
+- **10 minutes:** read the explainability and fairness interpretation sections.
 - **30 minutes:** follow the full evidence chain and reuse the structure for your own model review pack.
 
 ### Bottom line
@@ -47,8 +47,8 @@ The README shows the highlights; the paper gives you the full governance method.
 
 ### Recruiter summary (30 seconds)
 This repository is a **Responsible AI audit evidence pack** showing how to translate:
-- **Explainability** (SHAP = global patterns + case-level explanations)
-- **Fairness testing** (group metrics + disparity interpretation)
+- **Explainability** (SHAP = global patterns and case-level explanations)
+- **Fairness testing** (group metrics and disparity interpretation)
 into **GDPR-ready documentation** for automated decision systems (Article 22-relevant contexts).
 
 ## What you can open immediately
@@ -59,10 +59,10 @@ into **GDPR-ready documentation** for automated decision systems (Article 22-rel
 
 ## Open the PDF (this is where the value is)
 
-If you work in **AI governance, Model Risk, Compliance, Risk & Controls, Data Protection, Supplier Assurance, or Responsible AI** — don’t stop at the charts.
+If you work in **AI governance, Model Risk, Compliance, Risk & Controls, Data Protection, Supplier Assurance, or Responsible AI** - don’t stop at the charts.
 
 **Open the PDF first:** [publications/ssrn-5783263.pdf](publications/ssrn-5783263.pdf)
-This repo is a *preview evidence pack* — but the **PDF is the playbook**: how to document, interpret, escalate, and explain results to stakeholders.
+This repo is a *preview evidence pack* - but the **PDF is the playbook**: how to document, interpret, escalate, and explain results to stakeholders.
 
 ### Why open it
 - **Charts don’t pass audits.** The PDF shows how SHAP + fairness outputs become **audit-ready evidence**.
@@ -74,9 +74,9 @@ This repo is a *preview evidence pack* — but the **PDF is the playbook**: how 
 - **5 minutes:** PDF → figures + interpretation
 - **15 minutes:** evidence framing + recommended actions
 
-**Bottom line:** the README visuals are the hook — the **PDF is the toolkit** 
+**Bottom line:** the README visuals are the hook - the **PDF is the toolkit** 
 
-**Best starting point:** Open the PDF - the README is a preview, the PDF contains the full method + interpretation + evidence template.
+**Best starting point:** Open the PDF - the README is a preview, the PDF contains the full method and interpretation + evidence template.
 
 ---
 ### 5-minute skim path (PDF)
