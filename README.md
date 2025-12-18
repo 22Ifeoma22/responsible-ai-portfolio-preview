@@ -1,17 +1,14 @@
 # From Model-Level Explanations to Legal Evidence
 ## Auditing Bias and Explainability in GDPR-Compliant Automated Decision Systems
+**Start here:** [Read the full paper (PDF)](publications/ssrn-5783263.pdf)
 
-**SSRN:** [Abstract page](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5783263) · **PDF:** [ssrn-5783263.pdf](publications/ssrn-5783263.pdf) · **Figures:** [visuals/](visuals/) · **Evidence pack:** [publications/](publications/)
-**Best starting point:** Open the PDF - the README is a preview, the PDF contains the full method + interpretation + evidence template.
+SSRN abstract:[View abstract page](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5783263)
 
-## Start with the PDF (the full AI governance toolkit)
-**Open the full paper (PDF on SSRN):** Click **“Open PDF in Browser”** (fastest) or **“Download This Paper.”  
-This paper is a practical **day-to-day AI governance evidence pack** (what to check, how to document SHAP and fairness, what to escalate).
-Reusable audit structure + interpretation notes + evidence mapping you can copy into model reviews this week.
-**From Model-Level Explanations to Legal Evidence: Auditing Bias and Explainability in GDPR-Compliant Automated Decision Systems**
-
- **Open the full paper (PDF):** `publications/ssrn-5783263.pdf`  
- **SSRN abstract page:** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5783263  
+> **This repo is a preview. The PDF is the playbook** — it contains the full method, interpretation guidance, and audit-ready evidence structure (not just charts).
+**Written as an evidence pack — not a blog post.**
+## Quick navigation
+- Figures: [visuals/](visuals/)
+- Evidence pack: [publications/](publications/)
 
 If you work in **AI governance, Model Risk Management, Compliance, Risk & Controls, Data Protection, Supplier Assurance, or Responsible AI**, the README visuals are only the preview.
 
