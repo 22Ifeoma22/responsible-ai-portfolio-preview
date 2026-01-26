@@ -1,5 +1,11 @@
 # From Model-Level Explanations to Legal Evidence
 ## Auditing Bias and Explainability in GDPR-Compliant Automated Decision Systems
+##  Video Walkthroughs (YouTube)
+
+I share walkthroughs explaining AI governance, explainability, fairness audits, and GDPR-aligned evidence packs on my YouTube channel:
+
+https://www.youtube.com/@suelook9562
+
 **Start here:** [Read the full paper (PDF)](publications/ssrn-5783263.pdf)
 
 SSRN abstract:[View abstract page](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5783263)
