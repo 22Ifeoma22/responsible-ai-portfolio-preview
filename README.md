@@ -10,8 +10,8 @@ https://www.youtube.com/@suelook9562
 
 SSRN abstract:[View abstract page](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5783263)
 
-> **This repo is a preview. The PDF is the playbook** — it contains the full method, interpretation guidance, and audit-ready evidence structure (not just charts).
-**Written as an evidence pack — not a blog post.**
+> **This repo is a preview. The PDF is the playbook** - it contains the full method, interpretation guidance, and audit-ready evidence structure (not just charts).
+**Written as an evidence pack - not a blog post.**
 ## Quick navigation
 - Figures: [visuals/](visuals/)
 - Evidence pack: [publications/](publications/)
