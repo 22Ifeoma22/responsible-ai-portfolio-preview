@@ -15,15 +15,29 @@ SSRN abstract:[View abstract page](https://papers.ssrn.com/sol3/papers.cfm?abstr
 ## Quick navigation
 ---
 
-## Article 2 (Out Soon): Including or Excluding Protected Attributes in AI Models
+Article 2 (Now Live): Including or Excluding Protected Attributes in AI Models
 
-This article examines the legal, ethical, and technical trade-offs involved in using protected attributes in AI systems. It introduces a governance-led decision framework to support fairness testing while remaining compliant with GDPR and the EU AI Act.
+This paper examines the legal, ethical, and technical trade-offs involved in using protected attributes (e.g., sex, race, age, disability) in AI systems. It introduces a governance-led decision framework to support fairness testing while remaining compliant with GDPR and aligned to the EU AI Act.
 
-The paper is aimed at:
-- AI governance and assurance teams  
-- GDPR Article 22 and special category data reviews  
-- EU AI Act high-risk system assessments  
-- Fairness, bias, and explainability audits  
+Who this is for:
+
+AI governance and assurance teams
+
+GDPR Article 22 reviews and special category data governance
+
+EU AI Act high-risk system assessments
+
+Fairness, bias, and explainability audit teams
+
+ YouTube walkthrough (now live):
+https://youtu.be/hgwjOPxe5P4
+
+ SSRN paper (now live):
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6020234
+
+Figures: visuals/
+
+Evidence pack: publications/  
 
 🎥 **YouTube walkthrough (now live):**  
 https://youtu.be/hgwjOPxe5P4
