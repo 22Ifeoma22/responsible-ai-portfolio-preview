@@ -35,15 +35,6 @@ https://youtu.be/hgwjOPxe5P4
  SSRN paper (now live):
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6020234
 
-Figures: visuals/
-
-Evidence pack: publications/  
-
-🎥 **YouTube walkthrough (now live):**  
-https://youtu.be/hgwjOPxe5P4
-
-📄 **SSRN paper:** Out soon (currently released on SSRN; Google indexing pending)
-
 - Figures: [visuals/](visuals/)
 - Evidence pack: [publications/](publications/)
 
