@@ -145,7 +145,7 @@ Aligned with:
 - ISO/IEC 42001 (AI management system lifecycle governance)
 - ISO/IEC 27001 and 27701 (security and privacy controls)
 
-Start here: [Read the full paper (PDF)](papers/01-ethics-foreseeable-health-safety-ai/paper.pdf)
+Start here: [Read the full paper (PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6128487)
 
 SSRN abstract: Add your SSRN link here
 
