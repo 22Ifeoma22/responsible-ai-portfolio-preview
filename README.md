@@ -133,9 +133,9 @@ If you want the extended evidence pack (more artefacts + templates), open an Iss
 **Title:** *From Model-Level Explanations to Legal Evidence: Auditing Bias and Explainability in GDPR-Compliant Automated Decision Systems*  
 Read on SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5783263
 ---
-
-## Article 3 (Now Live): Ethics Becomes Enforceable Governance When Harm is Foreseeable and Preventable
-
+## Working paper (SSRN)
+## Article 3 (Now Live) : Ethics Becomes Enforceable Governance When Harm is Foreseeable and Preventable
+Read on SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6128487
 This paper establishes the operational boundary between ethical intention and enforceable governance. Using a healthcare wearable fall monitoring use case, it demonstrates how foreseeable harm becomes measurable audit evidence through structured monitoring, explainability (SHAP, LIME), logging, escalation, and lifecycle governance.
 
 Aligned with:
