@@ -132,3 +132,22 @@ If you want the extended evidence pack (more artefacts + templates), open an Iss
 ## Working paper (SSRN)
 **Title:** *From Model-Level Explanations to Legal Evidence: Auditing Bias and Explainability in GDPR-Compliant Automated Decision Systems*  
 Read on SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5783263
+---
+
+## Article 3 (Now Live): Ethics Becomes Enforceable Governance When Harm is Foreseeable and Preventable
+
+This paper establishes the operational boundary between ethical intention and enforceable governance. Using a healthcare wearable fall monitoring use case, it demonstrates how foreseeable harm becomes measurable audit evidence through structured monitoring, explainability (SHAP, LIME), logging, escalation, and lifecycle governance.
+
+Aligned with:
+
+- EU AI Act (risk management, monitoring, accountability)
+- GDPR (Article 22, fairness, accountability, auditability)
+- ISO/IEC 42001 (AI management system lifecycle governance)
+- ISO/IEC 27001 and 27701 (security and privacy controls)
+
+Start here: [Read the full paper (PDF)](papers/01-ethics-foreseeable-health-safety-ai/paper.pdf)
+
+SSRN abstract: Add your SSRN link here
+
+---
+
